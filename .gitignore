@@ -1,0 +1,13 @@
+# Ignore the actual executable and app files (too large for GitHub)
+app/
+*/app/
+**/app/
+
+# Large binary files
+*.exe
+*.dll
+*.pak
+
+# OS files
+.DS_Store
+Thumbs.db
