@@ -15,10 +15,8 @@ A simple, portable desktop todo app built with JavaScript and Electron.
 
 - Add, complete, and delete tasks
 - Automatic saving to local file
-- Clean, modern interface
 - No installation required
 - Works completely offline
-- Portable - runs from any folder
 
 ## System Requirements
 
@@ -31,10 +29,7 @@ A simple, portable desktop todo app built with JavaScript and Electron.
 ```
 Tasky-v1.0-Windows/
 ├── Launch Tasky.bat    (Click this to start)
-├── HOW TO RUN.txt      (Quick instructions)
-├── README.md           (Documentation)
 ├── app/                (Application files)
-└── docs/               (Help files)
 ```
 
 ## Support
