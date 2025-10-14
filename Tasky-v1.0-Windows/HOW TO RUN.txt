@@ -1,0 +1,7 @@
+🚀 TO RUN THE APP: Double-click "Launch Tasky.bat"
+
+📖 For more info: Open README.md
+
+📁 App files: Located in the "app" folder
+
+📚 Documentation: Check the "docs" folder
