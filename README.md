@@ -14,9 +14,12 @@ A simple, portable desktop todo app built with JavaScript and Electron.
 ## Features
 
 - Add, complete, and delete tasks
+- Task deadlines and priorities
 - Automatic saving to local file
 - No installation required
 - Works completely offline
+- Calendar view
+- Personalization settings
 
 ## What's Included
 
